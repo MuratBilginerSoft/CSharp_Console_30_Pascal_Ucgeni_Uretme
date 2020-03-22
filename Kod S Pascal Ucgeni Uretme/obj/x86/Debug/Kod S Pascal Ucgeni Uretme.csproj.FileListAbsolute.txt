@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Pascal Ucgeni Uretme\Kod S Pascal Ucgeni Uretme\bin\Debug\Kod S Pascal Ucgeni Uretme.exe
+C:\Users\mrt_b\Desktop\Kod S Pascal Ucgeni Uretme\Kod S Pascal Ucgeni Uretme\bin\Debug\Kod S Pascal Ucgeni Uretme.pdb
+C:\Users\mrt_b\Desktop\Kod S Pascal Ucgeni Uretme\Kod S Pascal Ucgeni Uretme\obj\x86\Debug\Kod S Pascal Ucgeni Uretme.exe
+C:\Users\mrt_b\Desktop\Kod S Pascal Ucgeni Uretme\Kod S Pascal Ucgeni Uretme\obj\x86\Debug\Kod S Pascal Ucgeni Uretme.pdb
